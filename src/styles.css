@@ -37,9 +37,6 @@ li {
   margin-left: 2px;
   color: #202124;
 }
-.weather-app {
-  background: linear-gradient(-225deg, #5d9fff 0%, #b8dcff 48%, #6bbbff 100%);
-}
 
 .weather-desc {
   text-transform: capitalize;
@@ -72,6 +69,7 @@ li {
   margin: 20px auto;
   border-radius: 15px;
   max-width: 650px;
+  background: linear-gradient(-225deg, #5d9fff 0%, #b8dcff 48%, #6bbbff 100%);
 }
 .today-temp {
   font-size: 48px;
