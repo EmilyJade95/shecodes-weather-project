@@ -67,6 +67,7 @@ li {
   border: 1px solid rgb(135, 135, 135);
   padding: 15px;
   margin: 20px auto;
+  margin-bottom: 5px;
   border-radius: 15px;
   max-width: 650px;
   background: linear-gradient(-225deg, #5d9fff 0%, #b8dcff 48%, #6bbbff 100%);
@@ -78,7 +79,13 @@ li {
   display: inline;
   vertical-align: top;
 }
-
+.github-repo-link {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 12px;
+  margin-top: 0px;
+}
 .mostly-cloudy {
   display: inline-block;
   height: 60px;
